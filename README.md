@@ -1,21 +1,27 @@
 markdown
 WELCOME TO NEST CROWN-XMD REPOSITORY
 
-![GitHub stars](https://img.shields.io/github/stars/nestcrown/Whatsap-bot?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nestcrown/Whatsap-bot?style=for-the-badge)
+![Stars](https://img.shields.io/badge/STARS-0-grey)
+![Forks](https://img.shields.io/badge/FORKS-0-blue)
 
-FORK AND STAR REPO
+---
 
-[![Fork repo](https://img.shields.io/badge/Fork-Repo-blue?style=for-the-badge)](https://github.com/nestcrown/Whatsap-bot/fork)
-[![Star repo](https://img.shields.io/badge/Star-Repo-yellow?style=for-the-badge)](https://github.com/nestcrown/Whatsap-bot/stargazers)
+🚀 FORK AND STAR THIS REPO
 
-GET SESSION ID
+[![FORK](https://img.shields.io/badge/FORK-REPO-blue)](https://github.com/nestcrown/Whatsap-bot/fork)  
+[![STAR](https://img.shields.io/badge/STAR-REPO-yellow)](https://github.com/nestcrown/Whatsap-bot)
 
-- Fuata maelekezo ya kuunganisha na bot kwa kutumia QR code.
-- Hii itakupa session ID inayohitajika kuendesha bot.
+---
 
-SCAN QR CODE
+📲 GET SESSION ID
 
-- Tumia app yoyote ya QR scanner ili kuscan code ifuatayo kuunganisha bot yako:
+- Follow the instructions to connect your bot using the QR code.
+- This will generate your *Session ID* needed to run the bot.
 
-![QR Code](https://via.placeholder.com/150)
+---
+
+📷 SCAN QR CODE
+
+Use any QR scanner app to scan the code below and connect to your WhatsApp bot:
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://wa.me)
